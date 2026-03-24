@@ -1,0 +1,21 @@
+{
+  "elasticnet_val": {
+    "mse": 0.4751991629600525,
+    "rmse": 0.689346910459496,
+    "r2": 0.45499874254498973,
+    "near_zero_weights": 0
+  },
+  "elasticnet_train": {
+    "mse": 0.4735471308231354,
+    "rmse": 0.6881476083102631,
+    "r2": 0.5264528614941144,
+    "near_zero_weights": 0
+  },
+  "ridge_val": {
+    "mse": 0.4784508943557739,
+    "rmse": 0.6917014488605426,
+    "r2": 0.45126934135902985,
+    "near_zero_weights": 0
+  },
+  "sparsity_improvement": 0
+}
